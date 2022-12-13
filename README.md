@@ -1,7 +1,7 @@
 # Room Designer 3000
 Abdullah Alhasni & Sameer Manzoor
 
-Dependencies that you must download in Unity so the project can work:
+Dependencies that you must download in Unity so the project can work (Some files might overlap, ignore them):
 https://assetstore.unity.com/packages/3d/props/furniture/big-furniture-pack-7717
 https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022
 https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.2/manual/index.html
