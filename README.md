@@ -1,6 +1,5 @@
 # Room Designer 3000
-Room Designer 3000
-Abdullah Alhasni, Sameer Manzoor
+Abdullah Alhasni & Sameer Manzoor
 
 Rearranging the furniture in your house can be difficult since moving furniture around is difficult. This project should help make this process much easier. In this software the user will be able to change the position of the furniture virtually and see how the final product looks before actually moving the furniture, making it easier to visualize and get a final look that suits them best. This software can also be used by interior designers and architects in the future to design rooms, houses, offices etc, satisfying their clients.
 
